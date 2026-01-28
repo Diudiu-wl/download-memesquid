@@ -54,7 +54,8 @@ const handleKeyPress = (e) => {
       
       <button
          className="download-btn"
-          onClick={handleDownload}
+          //onClick={handleDownload}
+          onClick={() => window.location.href = `${process.env.PUBLIC_URL}/downloads/memesquid.exe`}
       >
         下载
       </button>
