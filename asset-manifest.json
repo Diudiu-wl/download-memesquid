@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/download-memesquid/static/css/main.d1b1e3c9.css",
+    "main.css": "/download-memesquid/static/css/main.ee4cc01e.css",
     "main.js": "/download-memesquid/static/js/main.383e86f0.js",
     "index.html": "/download-memesquid/index.html",
-    "main.d1b1e3c9.css.map": "/download-memesquid/static/css/main.d1b1e3c9.css.map",
+    "main.ee4cc01e.css.map": "/download-memesquid/static/css/main.ee4cc01e.css.map",
     "main.383e86f0.js.map": "/download-memesquid/static/js/main.383e86f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1b1e3c9.css",
+    "static/css/main.ee4cc01e.css",
     "static/js/main.383e86f0.js"
   ]
 }
